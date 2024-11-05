@@ -23,20 +23,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto visa criar um podcast sobre futebol utilizando ferramentas De IA para gerar textos e convertê-los em áudio
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e SpeechGen.io
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro encontrei um tema sobre o qual tenho interesse e gostaria de me atualizar sobre, no caso foi o futebol. Logo após decidi quais plataformas me ajudariam a criar o conteúdo e convertê-los em áudio, no caso foram o ChatGPT e SpeechGen.io. Criei meu cadastro nas plataformas citadas e coloquei em prática meu projeto, utilizando o ChatGPT para criar o conteúdo em texto e o SpeechGen.io para criar o áudio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+(exemplos/p_32246972_677.mp3)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
 
 ### Exemplos e Insigths
 
